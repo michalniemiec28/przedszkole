@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/przedszkole-nr-3/static/css/main.b357d8e4.chunk.css",
+    "main.js": "/przedszkole-nr-3/static/js/main.f94334dd.chunk.js",
+    "main.js.map": "/przedszkole-nr-3/static/js/main.f94334dd.chunk.js.map",
+    "runtime-main.js": "/przedszkole-nr-3/static/js/runtime-main.5dcbbb59.js",
+    "runtime-main.js.map": "/przedszkole-nr-3/static/js/runtime-main.5dcbbb59.js.map",
+    "static/css/2.13dac556.chunk.css": "/przedszkole-nr-3/static/css/2.13dac556.chunk.css",
+    "static/js/2.d6f04b98.chunk.js": "/przedszkole-nr-3/static/js/2.d6f04b98.chunk.js",
+    "static/js/2.d6f04b98.chunk.js.map": "/przedszkole-nr-3/static/js/2.d6f04b98.chunk.js.map",
+    "index.html": "/przedszkole-nr-3/index.html",
+    "precache-manifest.51a46fd2a21f4ea34585bc5ed5c755b1.js": "/przedszkole-nr-3/precache-manifest.51a46fd2a21f4ea34585bc5ed5c755b1.js",
+    "service-worker.js": "/przedszkole-nr-3/service-worker.js",
+    "static/css/2.13dac556.chunk.css.map": "/przedszkole-nr-3/static/css/2.13dac556.chunk.css.map",
+    "static/css/main.b357d8e4.chunk.css.map": "/przedszkole-nr-3/static/css/main.b357d8e4.chunk.css.map",
+    "static/js/2.d6f04b98.chunk.js.LICENSE.txt": "/przedszkole-nr-3/static/js/2.d6f04b98.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/przedszkole-nr-3/static/media/SourceSansPro-Regular.c1678b46.ttf",
+    "static/media/banner.svg": "/przedszkole-nr-3/static/media/banner.0a723e0c.svg",
+    "static/media/hello.svg": "/przedszkole-nr-3/static/media/hello.334edff6.svg",
+    "static/media/logo.svg": "/przedszkole-nr-3/static/media/logo.d33072d4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dcbbb59.js",
+    "static/css/2.13dac556.chunk.css",
+    "static/js/2.d6f04b98.chunk.js",
+    "static/css/main.b357d8e4.chunk.css",
+    "static/js/main.f94334dd.chunk.js"
+  ]
+}
