@@ -1,0 +1,19 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "description": "Przedszkole nr 3 build",
+  "main": "index.html",
+  "homepage": "https://michalniemiec28.github.io/przedszkole/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalniemiec28/przedszkole.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michalniemiec28/przedszkole/issues"
+  }
+}
